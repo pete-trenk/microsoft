@@ -32,3 +32,7 @@ For remote knowledge sources, permission enforcement is really a value add of Fo
 
 3.) Token Efficiency
 - "agentic retrieval that finds relevant data automatically without wasting tokens"
+
+https://learn.microsoft.com/en-us/azure/search/samples-python
+https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/foundry-iq-improve-recall-by-up-to-54-with-knowledge-bases/4524852
+
