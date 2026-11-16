@@ -24,6 +24,9 @@ On-Behalf-Of (OBO) agent authentication
 You configure fine-grain permissions to documents a particular user can see within the content of a knowledge source, so agents return only content the user is authorized to see.
 
 Note, user-level controls apply only when the source supports document-level permissions and those permissions are configured to sync.
+- Sharepoint - a file or page (e.g., outage escalation policy)
+- SQL (note, an indexed SQL knowledge sources isn't the same as access to a SQL table/database)
+- - https://learn.microsoft.com/zh-cn/Azure/search/agentic-knowledge-source-how-to-azure-sql?pivots=python
 
 For remote knowledge sources, permission enforcement is really a value add of Foundry IQ
 
